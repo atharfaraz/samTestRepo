@@ -1,6 +1,6 @@
 {
     "Parameters": {
-        "SamMultipler": "1",
+        "SamMultipler": "3",
         "OriginUrl": "http://adsk-shaikha-us-west-2.s3-website-us-west-2.amazonaws.com"
     }
 }
