@@ -4,7 +4,7 @@
   "dependencies": {
     "moment": "^2.16.0"
   },
-  "description": "Sam Farm lambda function for Re:Invent 2016 Serverless miniconf",
+  "description": "Sam Farm lambda function for Re:Invent 2016 Serverless miniconfigß",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
